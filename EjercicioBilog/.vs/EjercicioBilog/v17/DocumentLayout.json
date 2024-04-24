@@ -1,0 +1,213 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fede_\\Documents\\Repositorios\\EjercicioProgramacion\\EjercicioBilog\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C5D7D9-3277-4C34-8106-2AA60AD8BD36}|EjercicioBilog\\EjercicioBilog.csproj|c:\\users\\fede_\\documents\\repositorios\\ejercicioprogramacion\\ejerciciobilog\\ejerciciobilog\\listarempleado.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9C5D7D9-3277-4C34-8106-2AA60AD8BD36}|EjercicioBilog\\EjercicioBilog.csproj|solutionrelative:ejerciciobilog\\listarempleado.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C5D7D9-3277-4C34-8106-2AA60AD8BD36}|EjercicioBilog\\EjercicioBilog.csproj|C:\\Users\\fede_\\Documents\\Repositorios\\EjercicioProgramacion\\EjercicioBilog\\ejerciciobilog\\modificarempleado.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D9C5D7D9-3277-4C34-8106-2AA60AD8BD36}|EjercicioBilog\\EjercicioBilog.csproj|solutionrelative:ejerciciobilog\\modificarempleado.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C5D7D9-3277-4C34-8106-2AA60AD8BD36}|EjercicioBilog\\EjercicioBilog.csproj|C:\\Users\\fede_\\Documents\\Repositorios\\EjercicioProgramacion\\EjercicioBilog\\ejerciciobilog\\listarempleado.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D9C5D7D9-3277-4C34-8106-2AA60AD8BD36}|EjercicioBilog\\EjercicioBilog.csproj|solutionrelative:ejerciciobilog\\listarempleado.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C5D7D9-3277-4C34-8106-2AA60AD8BD36}|EjercicioBilog\\EjercicioBilog.csproj|C:\\Users\\fede_\\Documents\\Repositorios\\EjercicioProgramacion\\EjercicioBilog\\ejerciciobilog\\borrarempleado.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D9C5D7D9-3277-4C34-8106-2AA60AD8BD36}|EjercicioBilog\\EjercicioBilog.csproj|solutionrelative:ejerciciobilog\\borrarempleado.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C5D7D9-3277-4C34-8106-2AA60AD8BD36}|EjercicioBilog\\EjercicioBilog.csproj|C:\\Users\\fede_\\Documents\\Repositorios\\EjercicioProgramacion\\EjercicioBilog\\ejerciciobilog\\agregarempleado.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D9C5D7D9-3277-4C34-8106-2AA60AD8BD36}|EjercicioBilog\\EjercicioBilog.csproj|solutionrelative:ejerciciobilog\\agregarempleado.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C5D7D9-3277-4C34-8106-2AA60AD8BD36}|EjercicioBilog\\EjercicioBilog.csproj|C:\\Users\\fede_\\Documents\\Repositorios\\EjercicioProgramacion\\EjercicioBilog\\ejerciciobilog\\inicio.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D9C5D7D9-3277-4C34-8106-2AA60AD8BD36}|EjercicioBilog\\EjercicioBilog.csproj|solutionrelative:ejerciciobilog\\inicio.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C5D7D9-3277-4C34-8106-2AA60AD8BD36}|EjercicioBilog\\EjercicioBilog.csproj|C:\\Users\\fede_\\Documents\\Repositorios\\EjercicioProgramacion\\EjercicioBilog\\ejerciciobilog\\agregarempleado.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9C5D7D9-3277-4C34-8106-2AA60AD8BD36}|EjercicioBilog\\EjercicioBilog.csproj|solutionrelative:ejerciciobilog\\agregarempleado.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C5D7D9-3277-4C34-8106-2AA60AD8BD36}|EjercicioBilog\\EjercicioBilog.csproj|C:\\Users\\fede_\\Documents\\Repositorios\\EjercicioProgramacion\\EjercicioBilog\\ejerciciobilog\\borrarempleado.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9C5D7D9-3277-4C34-8106-2AA60AD8BD36}|EjercicioBilog\\EjercicioBilog.csproj|solutionrelative:ejerciciobilog\\borrarempleado.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C5D7D9-3277-4C34-8106-2AA60AD8BD36}|EjercicioBilog\\EjercicioBilog.csproj|C:\\Users\\fede_\\Documents\\Repositorios\\EjercicioProgramacion\\EjercicioBilog\\ejerciciobilog\\modificarempleado.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9C5D7D9-3277-4C34-8106-2AA60AD8BD36}|EjercicioBilog\\EjercicioBilog.csproj|solutionrelative:ejerciciobilog\\modificarempleado.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C5D7D9-3277-4C34-8106-2AA60AD8BD36}|EjercicioBilog\\EjercicioBilog.csproj|C:\\Users\\fede_\\Documents\\Repositorios\\EjercicioProgramacion\\EjercicioBilog\\ejerciciobilog\\clases\\globals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9C5D7D9-3277-4C34-8106-2AA60AD8BD36}|EjercicioBilog\\EjercicioBilog.csproj|solutionrelative:ejerciciobilog\\clases\\globals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C5D7D9-3277-4C34-8106-2AA60AD8BD36}|EjercicioBilog\\EjercicioBilog.csproj|C:\\Users\\fede_\\Documents\\Repositorios\\EjercicioProgramacion\\EjercicioBilog\\ejerciciobilog\\clases\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9C5D7D9-3277-4C34-8106-2AA60AD8BD36}|EjercicioBilog\\EjercicioBilog.csproj|solutionrelative:ejerciciobilog\\clases\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C5D7D9-3277-4C34-8106-2AA60AD8BD36}|EjercicioBilog\\EjercicioBilog.csproj|C:\\Users\\fede_\\Documents\\Repositorios\\EjercicioProgramacion\\EjercicioBilog\\ejerciciobilog\\inicio.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9C5D7D9-3277-4C34-8106-2AA60AD8BD36}|EjercicioBilog\\EjercicioBilog.csproj|solutionrelative:ejerciciobilog\\inicio.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ListarEmpleado.aspx",
+              "DocumentMoniker": "C:\\Users\\fede_\\Documents\\Repositorios\\EjercicioProgramacion\\EjercicioBilog\\EjercicioBilog\\ListarEmpleado.aspx",
+              "RelativeDocumentMoniker": "EjercicioBilog\\ListarEmpleado.aspx",
+              "ToolTip": "C:\\Users\\fede_\\Documents\\Repositorios\\EjercicioProgramacion\\EjercicioBilog\\EjercicioBilog\\ListarEmpleado.aspx",
+              "RelativeToolTip": "EjercicioBilog\\ListarEmpleado.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-24T17:01:54.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AgregarEmpleado.aspx",
+              "DocumentMoniker": "C:\\Users\\fede_\\Documents\\Repositorios\\EjercicioProgramacion\\EjercicioBilog\\EjercicioBilog\\AgregarEmpleado.aspx",
+              "RelativeDocumentMoniker": "EjercicioBilog\\AgregarEmpleado.aspx",
+              "ToolTip": "C:\\Users\\fede_\\Documents\\Repositorios\\EjercicioProgramacion\\EjercicioBilog\\EjercicioBilog\\AgregarEmpleado.aspx",
+              "RelativeToolTip": "EjercicioBilog\\AgregarEmpleado.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-24T17:14:42.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Inicio.aspx",
+              "DocumentMoniker": "C:\\Users\\fede_\\Documents\\Repositorios\\EjercicioProgramacion\\EjercicioBilog\\EjercicioBilog\\Inicio.aspx",
+              "RelativeDocumentMoniker": "EjercicioBilog\\Inicio.aspx",
+              "ToolTip": "C:\\Users\\fede_\\Documents\\Repositorios\\EjercicioProgramacion\\EjercicioBilog\\EjercicioBilog\\Inicio.aspx",
+              "RelativeToolTip": "EjercicioBilog\\Inicio.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-24T16:28:45.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ModificarEmpleado.aspx",
+              "DocumentMoniker": "C:\\Users\\fede_\\Documents\\Repositorios\\EjercicioProgramacion\\EjercicioBilog\\EjercicioBilog\\ModificarEmpleado.aspx",
+              "RelativeDocumentMoniker": "EjercicioBilog\\ModificarEmpleado.aspx",
+              "ToolTip": "C:\\Users\\fede_\\Documents\\Repositorios\\EjercicioProgramacion\\EjercicioBilog\\EjercicioBilog\\ModificarEmpleado.aspx",
+              "RelativeToolTip": "EjercicioBilog\\ModificarEmpleado.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-24T18:44:29.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ListarEmpleado.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\fede_\\Documents\\Repositorios\\EjercicioProgramacion\\EjercicioBilog\\EjercicioBilog\\ListarEmpleado.aspx.cs",
+              "RelativeDocumentMoniker": "EjercicioBilog\\ListarEmpleado.aspx.cs",
+              "ToolTip": "C:\\Users\\fede_\\Documents\\Repositorios\\EjercicioProgramacion\\EjercicioBilog\\EjercicioBilog\\ListarEmpleado.aspx.cs",
+              "RelativeToolTip": "EjercicioBilog\\ListarEmpleado.aspx.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAIAwwBIAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T19:05:51.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BorrarEmpleado.aspx",
+              "DocumentMoniker": "C:\\Users\\fede_\\Documents\\Repositorios\\EjercicioProgramacion\\EjercicioBilog\\EjercicioBilog\\BorrarEmpleado.aspx",
+              "RelativeDocumentMoniker": "EjercicioBilog\\BorrarEmpleado.aspx",
+              "ToolTip": "C:\\Users\\fede_\\Documents\\Repositorios\\EjercicioProgramacion\\EjercicioBilog\\EjercicioBilog\\BorrarEmpleado.aspx",
+              "RelativeToolTip": "EjercicioBilog\\BorrarEmpleado.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-24T18:33:13.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AgregarEmpleado.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\fede_\\Documents\\Repositorios\\EjercicioProgramacion\\EjercicioBilog\\EjercicioBilog\\AgregarEmpleado.aspx.cs",
+              "RelativeDocumentMoniker": "EjercicioBilog\\AgregarEmpleado.aspx.cs",
+              "ToolTip": "C:\\Users\\fede_\\Documents\\Repositorios\\EjercicioProgramacion\\EjercicioBilog\\EjercicioBilog\\AgregarEmpleado.aspx.cs",
+              "RelativeToolTip": "EjercicioBilog\\AgregarEmpleado.aspx.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T17:21:19.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BorrarEmpleado.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\fede_\\Documents\\Repositorios\\EjercicioProgramacion\\EjercicioBilog\\EjercicioBilog\\BorrarEmpleado.aspx.cs",
+              "RelativeDocumentMoniker": "EjercicioBilog\\BorrarEmpleado.aspx.cs",
+              "ToolTip": "C:\\Users\\fede_\\Documents\\Repositorios\\EjercicioProgramacion\\EjercicioBilog\\EjercicioBilog\\BorrarEmpleado.aspx.cs",
+              "RelativeToolTip": "EjercicioBilog\\BorrarEmpleado.aspx.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAnwCgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T18:35:07.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ModificarEmpleado.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\fede_\\Documents\\Repositorios\\EjercicioProgramacion\\EjercicioBilog\\EjercicioBilog\\ModificarEmpleado.aspx.cs",
+              "RelativeDocumentMoniker": "EjercicioBilog\\ModificarEmpleado.aspx.cs",
+              "ToolTip": "C:\\Users\\fede_\\Documents\\Repositorios\\EjercicioProgramacion\\EjercicioBilog\\EjercicioBilog\\ModificarEmpleado.aspx.cs",
+              "RelativeToolTip": "EjercicioBilog\\ModificarEmpleado.aspx.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAADgvxUAAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T18:46:43.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Globals.cs",
+              "DocumentMoniker": "C:\\Users\\fede_\\Documents\\Repositorios\\EjercicioProgramacion\\EjercicioBilog\\EjercicioBilog\\Clases\\Globals.cs",
+              "RelativeDocumentMoniker": "EjercicioBilog\\Clases\\Globals.cs",
+              "ToolTip": "C:\\Users\\fede_\\Documents\\Repositorios\\EjercicioProgramacion\\EjercicioBilog\\EjercicioBilog\\Clases\\Globals.cs",
+              "RelativeToolTip": "EjercicioBilog\\Clases\\Globals.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAIAwwEsAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T17:54:00.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "C:\\Users\\fede_\\Documents\\Repositorios\\EjercicioProgramacion\\EjercicioBilog\\EjercicioBilog\\Clases\\Empleado.cs",
+              "RelativeDocumentMoniker": "EjercicioBilog\\Clases\\Empleado.cs",
+              "ToolTip": "C:\\Users\\fede_\\Documents\\Repositorios\\EjercicioProgramacion\\EjercicioBilog\\EjercicioBilog\\Clases\\Empleado.cs",
+              "RelativeToolTip": "EjercicioBilog\\Clases\\Empleado.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAIAwwBEAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T17:45:55.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Inicio.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\fede_\\Documents\\Repositorios\\EjercicioProgramacion\\EjercicioBilog\\EjercicioBilog\\Inicio.aspx.cs",
+              "RelativeDocumentMoniker": "EjercicioBilog\\Inicio.aspx.cs",
+              "ToolTip": "C:\\Users\\fede_\\Documents\\Repositorios\\EjercicioProgramacion\\EjercicioBilog\\EjercicioBilog\\Inicio.aspx.cs",
+              "RelativeToolTip": "EjercicioBilog\\Inicio.aspx.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAIAwwA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T17:02:13.423Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
