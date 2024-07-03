@@ -16,7 +16,7 @@ namespace Motor
         /// EJEMPLO DE CONNECTIONSTRING A BASE DE DATOS
         /// </summary>
 
-        public static readonly string connectionString = "Data Source=test.ct6qkoeayvxd.us-east-2.rds.amazonaws.com,1433;Database=GestionEmpleados;User Id=Bilog;Password=BilogTest1234;TrustServerCertificate=true";
+        public static readonly string connectionString = "";
 
 
         /// <summary>
